@@ -1,2 +1,4 @@
 /__pycache__
 /.env
+/ai agents/chroma.sqlite3
+/ai agents/113ac8af-31d1-4dfe-b798-37bce7f3065b
